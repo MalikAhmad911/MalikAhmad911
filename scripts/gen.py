@@ -213,7 +213,7 @@ def cta(c):
 def main():
     OUT.mkdir(exist_ok=True)
     for theme, c in THEMES.items():
-        files = {"hero": hero(c), "metrics": metrics(c), "services": services(c),
+        files = {"metrics": metrics(c), "services": services(c),
                  "results": results(c), "cta": cta(c)}
         for p in PROJECTS:
             files[f"project-{p[0]}"] = project(c, *p)
