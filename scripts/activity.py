@@ -5,10 +5,34 @@ import subprocess
 import urllib.request
 from collections import Counter, OrderedDict
 from datetime import date
+from pathlib import Path
+from xml.sax.saxutils import escape
 
-from gen import OUT, THEMES, card, svg, t
-
+OUT = Path(__file__).resolve().parent.parent / "assets"
+FONT = "'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+THEMES = {
+    "dark": dict(surface="#111A2E", inset="#0D1526", border="#1E2A44", text="#F8FAFC",
+                 muted="#94A3B8", primary="#22D3EE", accent="#A78BFA", green="#10B981"),
+    "light": dict(surface="#F8FAFC", inset="#FFFFFF", border="#E2E8F0", text="#0F172A",
+                  muted="#475569", primary="#0891B2", accent="#7C3AED", green="#059669"),
+}
 USER = "MalikAhmad911"
+
+
+def svg(w, h, body, label):
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" '
+            f'role="img" aria-label="{escape(label)}" font-family="{FONT}">\n{body}\n</svg>\n')
+
+
+def t(x, y, s, size, fill, weight=400, anchor="start", extra=""):
+    return (f'<text x="{x}" y="{y}" font-size="{size}" font-weight="{weight}" fill="{fill}" '
+            f'text-anchor="{anchor}" {extra}>{escape(s)}</text>')
+
+
+def card(x, y, w, h, c, r=18):
+    return f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{r}" fill="{c["surface"]}" stroke="{c["border"]}"/>'
+
+
 QUERY = """query($u:String!){user(login:$u){
   contributionsCollection{totalCommitContributions contributionCalendar{totalContributions
     weeks{contributionDays{contributionCount date}}}}

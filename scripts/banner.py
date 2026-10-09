@@ -169,7 +169,7 @@ MONO = "'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace"
 CW = 8.4                                # assumed char width at 14px; textLength enforces it
 
 ROWS = [
-    ("Subject", "Ahmad Amir"),
+    ("Name", "Ahmad Amir"),
     ("Role", "AI Engineer · Founder"),
     ("Origin", "Orlando, Florida"),
     ("Status", "Building AI revenue systems"),

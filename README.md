@@ -1,4 +1,4 @@
-<!-- Banner: scripts/banner.py · cards: scripts/gen.py · activity: scripts/activity.py -->
+<!-- Banner: scripts/banner.py · stats: scripts/activity.py -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/banner-dark.svg">
@@ -6,9 +6,7 @@
 </picture>
 
 <div align="center">
-  <a href="https://infiniterankers.io/"><img src="https://img.shields.io/badge/Website-infiniterankers.io-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Website" /></a>
-  &nbsp;&nbsp;
-  <a href="https://infiniterankers.io/book-demo"><img src="https://img.shields.io/badge/Book_a_Free_Call-7C3AED?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a free call" /></a>
+  <a href="https://infiniterankers.io/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/infinite-rankers"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
@@ -22,45 +20,6 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/metrics-dark.svg">
-  <img alt="2–6 weeks to go live · 3x more appointments · 4.8/5 rating · 24/7 support" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/metrics-light.svg" width="100%">
-</picture>
-
-### What we build
-
-<a href="https://infiniterankers.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/services-dark.svg">
-    <img alt="Services: AI lead capture, AI appointment and sales agents, CRM and pipeline automation, support and operations AI, reviews and reactivation, custom SaaS and internal tools" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/services-light.svg" width="100%">
-  </picture>
-</a>
-
-### Client results
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/results-dark.svg">
-  <img alt="Dental practice +145% new patients · E-commerce 62% cart recovery · Real estate +135% lead volume" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/results-light.svg" width="100%">
-</picture>
-
-### Featured work
-
-<p>
-  <a href="https://github.com/MalikAhmad911/90min"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/project-90min-dark.svg"><img alt="90min — Football SaaS platform" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/project-90min-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/MalikAhmad911/crmdesignxyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/project-crmdesignxyz-dark.svg"><img alt="crmdesignxyz — CRM and sales pipeline dashboard" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/project-crmdesignxyz-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/MalikAhmad911/email-marketing"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/project-email-marketing-dark.svg"><img alt="email-marketing — Email campaigns and automation" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/project-email-marketing-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/MalikAhmad911/instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/project-instagram-dark.svg"><img alt="instagram — Social media UI build" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/project-instagram-light.svg" width="49%"></picture></a>
-</p>
-
-### Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,git,vercel" alt="TypeScript, JavaScript, React, Next.js, Node.js, Tailwind, HTML, CSS, Git, Vercel" />
-</p>
-
-<br/>
-
-<!-- Refresh numbers: python scripts/activity.py -->
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/activity-dark.svg">
   <img alt="GitHub activity: contributions, commits, repositories, languages and monthly contributions" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/activity-light.svg" width="100%">
 </picture>
@@ -71,12 +30,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/output/github-snake-dark.svg">
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/output/github-snake.svg" width="100%">
 </picture>
-
-<br/><br/>
-
-<a href="https://infiniterankers.io/book-demo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/cta-dark.svg">
-    <img alt="Losing leads after hours? Book a free 30-minute strategy call" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/cta-light.svg" width="100%">
-  </picture>
-</a>

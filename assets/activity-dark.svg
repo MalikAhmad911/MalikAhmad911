@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="728 contributions, 722 commits, 45 repositories in the last year" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="734 contributions, 728 commits, 45 repositories in the last year" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
 <rect x="1" y="1" width="1198" height="438" rx="24" fill="#111A2E" stroke="#1E2A44"/>
 <text x="32" y="52" font-size="22" font-weight="800" fill="#F8FAFC" text-anchor="start" >Engineering at a glance</text>
 <text x="1168" y="52" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="end" >Last 12 months · updated Oct 2026</text>
 <rect x="32" y="76" width="272" height="96" rx="14" fill="#0D1526" stroke="#1E2A44"/>
-<text x="54.0" y="128" font-size="36" font-weight="800" fill="#22D3EE" text-anchor="start" >728</text>
+<text x="54.0" y="128" font-size="36" font-weight="800" fill="#22D3EE" text-anchor="start" >734</text>
 <text x="54.0" y="154" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="start" >Contributions</text>
 <rect x="320" y="76" width="272" height="96" rx="14" fill="#0D1526" stroke="#1E2A44"/>
-<text x="342.0" y="128" font-size="36" font-weight="800" fill="#A78BFA" text-anchor="start" >722</text>
+<text x="342.0" y="128" font-size="36" font-weight="800" fill="#A78BFA" text-anchor="start" >728</text>
 <text x="342.0" y="154" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="start" >Commits</text>
 <rect x="608" y="76" width="272" height="96" rx="14" fill="#0D1526" stroke="#1E2A44"/>
 <text x="630.0" y="128" font-size="36" font-weight="800" fill="#10B981" text-anchor="start" >45</text>
@@ -19,16 +19,16 @@
 <clipPath id="lr"><rect x="32" y="236" width="640" height="14"><animate attributeName="width" from="0" to="640" dur="1.4s" fill="freeze"/></rect></clipPath>
 <rect x="32" y="236" width="640" height="14" rx="7" fill="#1E2A44"/>
 <g clip-path="url(#lb)"><g clip-path="url(#lr)">
-<rect x="32.0" y="236" width="574.0" height="14" fill="#3178c6"/>
-<rect x="605.5" y="236" width="22.5" height="14" fill="#f1e05a"/>
-<rect x="627.4" y="236" width="11.8" height="14" fill="#fcb32c"/>
-<rect x="638.8" y="236" width="11.5" height="14" fill="#336790"/>
-<rect x="649.8" y="236" width="8.3" height="14" fill="#e34c26"/>
-<rect x="657.6" y="236" width="14.9" height="14" fill="#94A3B8"/>
+<rect x="32.0" y="236" width="573.5" height="14" fill="#3178c6"/>
+<rect x="605.0" y="236" width="22.4" height="14" fill="#f1e05a"/>
+<rect x="627.0" y="236" width="11.8" height="14" fill="#fcb32c"/>
+<rect x="638.3" y="236" width="11.5" height="14" fill="#336790"/>
+<rect x="649.3" y="236" width="8.3" height="14" fill="#e34c26"/>
+<rect x="657.1" y="236" width="15.4" height="14" fill="#94A3B8"/>
 </g></g>
 <circle cx="38" cy="285" r="6" fill="#3178c6"/>
 <text x="52" y="290" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="start" >TypeScript</text>
-<text x="222" y="290" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="end" >89.6%</text>
+<text x="222" y="290" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="end" >89.5%</text>
 <circle cx="253" cy="285" r="6" fill="#f1e05a"/>
 <text x="267" y="290" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="start" >JavaScript</text>
 <text x="437" y="290" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="end" >3.4%</text>
@@ -43,7 +43,7 @@
 <text x="437" y="324" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="end" >1.2%</text>
 <circle cx="468" cy="319" r="6" fill="#94A3B8"/>
 <text x="482" y="324" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="start" >Other</text>
-<text x="652" y="324" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="end" >2.2%</text>
+<text x="652" y="324" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="end" >2.3%</text>
 <text x="720" y="214" font-size="15" font-weight="700" fill="#F8FAFC" text-anchor="start" >Contributions by month</text>
 <line x1="720" y1="386" x2="1168" y2="386" stroke="#1E2A44"/>
 <rect x="725.0" y="383.0" width="27.3" height="3.0" rx="4" fill="#A78BFA" fill-opacity="1"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.20s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.20s" fill="freeze"/></rect>

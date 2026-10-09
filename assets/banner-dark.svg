@@ -1077,8 +1077,8 @@
 <circle cx="1099" cy="87" r="4" fill="#EF4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
 <text x="1109" y="91.5" font-size="12" font-weight="700" fill="#EF4444" text-anchor="start" letter-spacing="1">LIVE</text>
 <line x1="500" y1="110" x2="1150" y2="110" stroke="#1E293B"/>
-<text x="500" y="138" font-size="14" font-weight="400" fill="#94A3B8" text-anchor="start" textLength="58.8" lengthAdjust="spacingAndGlyphs" >Subject</text>
-<text x="567.2" y="138" font-size="14" font-weight="400" fill="#334155" text-anchor="start" textLength="487.2" lengthAdjust="spacingAndGlyphs" >..........................................................</text>
+<text x="500" y="138" font-size="14" font-weight="400" fill="#94A3B8" text-anchor="start" textLength="33.6" lengthAdjust="spacingAndGlyphs" >Name</text>
+<text x="542.0" y="138" font-size="14" font-weight="400" fill="#334155" text-anchor="start" textLength="512.4" lengthAdjust="spacingAndGlyphs" >.............................................................</text>
 <text x="1150" y="138" font-size="14" font-weight="600" fill="#F8FAFC" text-anchor="end" textLength="84.0" lengthAdjust="spacingAndGlyphs" >Ahmad Amir</text>
 <text x="500" y="161" font-size="14" font-weight="400" fill="#94A3B8" text-anchor="start" textLength="33.6" lengthAdjust="spacingAndGlyphs" >Role</text>
 <text x="542.0" y="161" font-size="14" font-weight="400" fill="#334155" text-anchor="start" textLength="420.0" lengthAdjust="spacingAndGlyphs" >..................................................</text>
