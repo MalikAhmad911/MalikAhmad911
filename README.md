@@ -69,6 +69,13 @@
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/output/github-snake-dark.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/output/github-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
 <a href="https://infiniterankers.io/book-demo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/cta-dark.svg">
