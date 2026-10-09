@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Ahmad Amir, Founder of Infinite Rankers LLC" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#334155"/></pattern>
+  <radialGradient id="g1" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0.05" cy="1" r="0.55"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.18"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  <linearGradient id="name" x1="0" x2="1"><stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <clipPath id="frame"><rect x="1" y="1" width="1198" height="398" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#frame)"><rect width="1200" height="400" fill="#0A101F"/><rect width="1200" height="400" fill="url(#dots)" opacity="0.45"/><rect width="1200" height="400" fill="url(#g1)"/><rect width="1200" height="400" fill="url(#g2)"/></g>
+<rect x="1" y="1" width="1198" height="398" rx="24" fill="none" stroke="#1E2A44" stroke-width="2"/>
+<rect x="60" y="56" width="300" height="30" rx="15" fill="#22D3EE" fill-opacity="0.1" stroke="#22D3EE" stroke-opacity="0.35"/>
+<circle cx="78" cy="71" r="4" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="92" y="76" font-size="12" font-weight="700" fill="#22D3EE" text-anchor="start" letter-spacing="1.6">AI REVENUE SYSTEMS AGENCY</text>
+<text x="58" y="158" font-size="62" font-weight="800" fill="url(#name)" text-anchor="start" letter-spacing="-1">Ahmad Amir</text>
+<text x="60" y="196" font-size="22" font-weight="600" fill="#A78BFA" text-anchor="start" >Founder, Infinite Rankers LLC</text>
+<text x="60" y="246" font-size="20" font-weight="400" fill="#94A3B8" text-anchor="start" >We build AI systems that capture leads,</text>
+<text x="60" y="274" font-size="20" font-weight="400" fill="#94A3B8" text-anchor="start" >follow up, and close sales for US businesses.</text>
+<rect x="60" y="306" width="117" height="30" rx="15.0" fill="#F8FAFC" fill-opacity="0.12" stroke="#F8FAFC" stroke-opacity="0.35"/><text x="118.33" y="325.68" font-size="13" font-weight="600" fill="#F8FAFC" text-anchor="middle" >Orlando, FL</text>
+<rect x="186.66" y="306" width="165" height="30" rx="15.0" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.35"/><text x="269.17" y="325.68" font-size="13" font-weight="600" fill="#22D3EE" text-anchor="middle" >Live in 2–6 weeks</text>
+<rect x="361.68" y="306" width="141" height="30" rx="15.0" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-opacity="0.35"/><text x="432.1" y="325.68" font-size="13" font-weight="600" fill="#10B981" text-anchor="middle" >Month-to-month</text>
+<rect x="750" y="50" width="400" height="300" rx="18" fill="#111A2E" stroke="#1E2A44"/>
+<text x="772" y="84" font-size="14" font-weight="700" fill="#F8FAFC" text-anchor="start" >Live pipeline</text>
+<circle cx="1064" cy="79" r="4" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="1128" y="84" font-size="12" font-weight="600" fill="#10B981" text-anchor="end" >running</text>
+<g><animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.70;0.75;0.80;0.84;1" dur="7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 8;0 8;0 0;0 0" keyTimes="0;0.70;0.75;0.80;0.84;1" dur="7s" repeatCount="indefinite"/>
+<rect x="768" y="106" width="364" height="56" rx="12" fill="#0D1526" stroke="#1E2A44"/>
+<circle cx="798" cy="134" r="17" fill="#10B981" fill-opacity="0.14"/>
+<g transform="translate(798 134)"><circle cx="0" cy="-4" r="4.5" fill="none" stroke="#10B981" stroke-width="2"/><path d="M-8 9 a8 7 0 0 1 16 0" fill="none" stroke="#10B981" stroke-width="2" stroke-linecap="round"/></g>
+<text x="826" y="131" font-size="15" font-weight="600" fill="#F8FAFC" text-anchor="start" >New lead captured</text>
+<text x="826" y="150" font-size="12" font-weight="400" fill="#94A3B8" text-anchor="start" >Website chat · 4 sec ago</text>
+<rect x="1036" y="122" width="84" height="24" rx="12" fill="#10B981" fill-opacity="0.14"/>
+<text x="1078.24" y="138" font-size="12" font-weight="700" fill="#10B981" text-anchor="middle" >Captured</text>
+</g>
+<g><animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.70;0.75;0.85;0.89;1" dur="7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 8;0 8;0 0;0 0" keyTimes="0;0.70;0.75;0.85;0.89;1" dur="7s" repeatCount="indefinite"/>
+<rect x="768" y="174" width="364" height="56" rx="12" fill="#0D1526" stroke="#1E2A44"/>
+<circle cx="798" cy="202" r="17" fill="#22D3EE" fill-opacity="0.14"/>
+<g transform="translate(798 202)"><path d="M-8 -7 L9 0 L-8 7 L-5 0 Z" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linejoin="round"/></g>
+<text x="826" y="199" font-size="15" font-weight="600" fill="#F8FAFC" text-anchor="start" >AI follow-up sent</text>
+<text x="826" y="218" font-size="12" font-weight="400" fill="#94A3B8" text-anchor="start" >SMS + email · instant</text>
+<rect x="1066" y="190" width="54" height="24" rx="12" fill="#22D3EE" fill-opacity="0.14"/>
+<text x="1093.12" y="206" font-size="12" font-weight="700" fill="#22D3EE" text-anchor="middle" >Sent</text>
+</g>
+<g><animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.70;0.75;0.90;0.94;1" dur="7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 8;0 8;0 0;0 0" keyTimes="0;0.70;0.75;0.90;0.94;1" dur="7s" repeatCount="indefinite"/>
+<rect x="768" y="242" width="364" height="56" rx="12" fill="#0D1526" stroke="#1E2A44"/>
+<circle cx="798" cy="270" r="17" fill="#A78BFA" fill-opacity="0.14"/>
+<g transform="translate(798 270)"><rect x="-8" y="-7" width="16" height="15" rx="3" fill="none" stroke="#A78BFA" stroke-width="2"/><path d="M-8 -2 H8 M-4 -10 V-5 M4 -10 V-5" stroke="#A78BFA" stroke-width="2" stroke-linecap="round"/><path d="M-3 3 l2 2 l4 -4" fill="none" stroke="#A78BFA" stroke-width="1.8" stroke-linecap="round"/></g>
+<text x="826" y="267" font-size="15" font-weight="600" fill="#F8FAFC" text-anchor="start" >Appointment booked</text>
+<text x="826" y="286" font-size="12" font-weight="400" fill="#94A3B8" text-anchor="start" >Calendar · Tue 10:30 AM</text>
+<rect x="1051" y="258" width="69" height="24" rx="12" fill="#A78BFA" fill-opacity="0.14"/>
+<text x="1085.68" y="274" font-size="12" font-weight="700" fill="#A78BFA" text-anchor="middle" >Booked</text>
+</g>
+<line x1="772" y1="308" x2="1128" y2="308" stroke="#1E2A44"/>
+<text x="772" y="334" font-size="13" font-weight="400" fill="#94A3B8" text-anchor="start" >Avg. client books</text>
+<text x="1128" y="334" font-size="13" font-weight="700" fill="#A78BFA" text-anchor="end" >3x more appointments in 60 days</text>
+</svg>
