@@ -1,4 +1,4 @@
-﻿name: Generate Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -14,14 +14,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # color_dots: empty cell first, then levels 1-4 â€” every level must stand out from the empty cell
+      # color_dots: empty cell first, then levels 1-4; every level must stand out from the empty cell
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=githublight&color_snake=#7C3AED&color_dots=#ebedf0,#a5f3fc,#22d3ee,#0891b2,#7c3aed
-            dist/github-snake-dark.svg?palette=githubdark&color_snake=#10B981&color_dots=#1e293b,#0e7490,#22d3ee,#a78bfa,#f0abfc
+            dist/github-snake.svg?palette=githublight&color_snake=blueviolet&color_dots=#ebedf0,#a5f3fc,#22d3ee,#0891b2,#7c3aed
+            dist/github-snake-dark.svg?palette=githubdark&color_snake=mediumseagreen&color_dots=#1e293b,#0e7490,#22d3ee,#a78bfa,#f0abfc
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
