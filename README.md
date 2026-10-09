@@ -1,4 +1,4 @@
-<!-- Banner: scripts/banner.py · stats: scripts/activity.py · snake: scripts/snake.py -->
+<!-- Banner: scripts/banner.py · snake: scripts/snake.py -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/banner-dark.svg">
@@ -18,13 +18,6 @@
 </div>
 
 <br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/activity-dark.svg">
-  <img alt="GitHub activity: contributions, commits, repositories, languages and monthly contributions" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/activity-light.svg" width="100%">
-</picture>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/snake-dark.svg">
