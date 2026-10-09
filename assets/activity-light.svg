@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="728 contributions, 722 commits, 45 repositories in the last year" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="1198" height="438" rx="24" fill="#F8FAFC" stroke="#E2E8F0"/>
+<text x="32" y="52" font-size="22" font-weight="800" fill="#0F172A" text-anchor="start" >Engineering at a glance</text>
+<text x="1168" y="52" font-size="13" font-weight="400" fill="#475569" text-anchor="end" >Last 12 months · updated Oct 2026</text>
+<rect x="32" y="76" width="272" height="96" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="54.0" y="128" font-size="36" font-weight="800" fill="#0891B2" text-anchor="start" >728</text>
+<text x="54.0" y="154" font-size="13" font-weight="400" fill="#475569" text-anchor="start" >Contributions</text>
+<rect x="320" y="76" width="272" height="96" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="342.0" y="128" font-size="36" font-weight="800" fill="#7C3AED" text-anchor="start" >722</text>
+<text x="342.0" y="154" font-size="13" font-weight="400" fill="#475569" text-anchor="start" >Commits</text>
+<rect x="608" y="76" width="272" height="96" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="630.0" y="128" font-size="36" font-weight="800" fill="#059669" text-anchor="start" >45</text>
+<text x="630.0" y="154" font-size="13" font-weight="400" fill="#475569" text-anchor="start" >Repositories</text>
+<rect x="896" y="76" width="272" height="96" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="918.0" y="128" font-size="36" font-weight="800" fill="#0891B2" text-anchor="start" >200</text>
+<text x="918.0" y="154" font-size="13" font-weight="400" fill="#475569" text-anchor="start" >Commits on peak day</text>
+<text x="32" y="214" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start" >Languages</text>
+<clipPath id="lb"><rect x="32" y="236" width="640" height="14" rx="7"/></clipPath>
+<clipPath id="lr"><rect x="32" y="236" width="640" height="14"><animate attributeName="width" from="0" to="640" dur="1.4s" fill="freeze"/></rect></clipPath>
+<rect x="32" y="236" width="640" height="14" rx="7" fill="#E2E8F0"/>
+<g clip-path="url(#lb)"><g clip-path="url(#lr)">
+<rect x="32.0" y="236" width="574.0" height="14" fill="#3178c6"/>
+<rect x="605.5" y="236" width="22.5" height="14" fill="#f1e05a"/>
+<rect x="627.4" y="236" width="11.8" height="14" fill="#fcb32c"/>
+<rect x="638.8" y="236" width="11.5" height="14" fill="#336790"/>
+<rect x="649.8" y="236" width="8.3" height="14" fill="#e34c26"/>
+<rect x="657.6" y="236" width="14.9" height="14" fill="#475569"/>
+</g></g>
+<circle cx="38" cy="285" r="6" fill="#3178c6"/>
+<text x="52" y="290" font-size="14" font-weight="600" fill="#0F172A" text-anchor="start" >TypeScript</text>
+<text x="222" y="290" font-size="13" font-weight="400" fill="#475569" text-anchor="end" >89.6%</text>
+<circle cx="253" cy="285" r="6" fill="#f1e05a"/>
+<text x="267" y="290" font-size="14" font-weight="600" fill="#0F172A" text-anchor="start" >JavaScript</text>
+<text x="437" y="290" font-size="13" font-weight="400" fill="#475569" text-anchor="end" >3.4%</text>
+<circle cx="468" cy="285" r="6" fill="#fcb32c"/>
+<text x="482" y="290" font-size="14" font-weight="600" fill="#0F172A" text-anchor="start" >MDX</text>
+<text x="652" y="290" font-size="13" font-weight="400" fill="#475569" text-anchor="end" >1.8%</text>
+<circle cx="38" cy="319" r="6" fill="#336790"/>
+<text x="52" y="324" font-size="14" font-weight="600" fill="#0F172A" text-anchor="start" >PLpgSQL</text>
+<text x="222" y="324" font-size="13" font-weight="400" fill="#475569" text-anchor="end" >1.7%</text>
+<circle cx="253" cy="319" r="6" fill="#e34c26"/>
+<text x="267" y="324" font-size="14" font-weight="600" fill="#0F172A" text-anchor="start" >HTML</text>
+<text x="437" y="324" font-size="13" font-weight="400" fill="#475569" text-anchor="end" >1.2%</text>
+<circle cx="468" cy="319" r="6" fill="#475569"/>
+<text x="482" y="324" font-size="14" font-weight="600" fill="#0F172A" text-anchor="start" >Other</text>
+<text x="652" y="324" font-size="13" font-weight="400" fill="#475569" text-anchor="end" >2.2%</text>
+<text x="720" y="214" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start" >Contributions by month</text>
+<line x1="720" y1="386" x2="1168" y2="386" stroke="#E2E8F0"/>
+<rect x="725.0" y="383.0" width="27.3" height="3.0" rx="4" fill="#7C3AED" fill-opacity="1"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.20s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.20s" fill="freeze"/></rect>
+<text x="738.6666666666666" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >N</text>
+<rect x="762.3" y="383.0" width="27.3" height="3.0" rx="4" fill="#7C3AED" fill-opacity="0.35"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.26s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.26s" fill="freeze"/></rect>
+<text x="776.0" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >D</text>
+<rect x="799.7" y="383.0" width="27.3" height="3.0" rx="4" fill="#7C3AED" fill-opacity="0.35"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.32s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.32s" fill="freeze"/></rect>
+<text x="813.3333333333333" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >J</text>
+<rect x="837.0" y="383.0" width="27.3" height="3.0" rx="4" fill="#7C3AED" fill-opacity="1"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.38s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.38s" fill="freeze"/></rect>
+<text x="850.6666666666666" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >F</text>
+<rect x="874.3" y="383.0" width="27.3" height="3.0" rx="4" fill="#7C3AED" fill-opacity="0.35"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.44s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.44s" fill="freeze"/></rect>
+<text x="888.0" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >M</text>
+<rect x="911.7" y="383.0" width="27.3" height="3.0" rx="4" fill="#7C3AED" fill-opacity="0.35"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.50s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.50s" fill="freeze"/></rect>
+<text x="925.3333333333334" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >A</text>
+<rect x="949.0" y="383.0" width="27.3" height="3.0" rx="4" fill="#7C3AED" fill-opacity="0.35"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.56s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.56s" fill="freeze"/></rect>
+<text x="962.6666666666666" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >M</text>
+<rect x="986.3" y="324.4" width="27.3" height="61.6" rx="4" fill="#7C3AED" fill-opacity="1"><animate attributeName="height" from="0" to="61.6" dur="0.9s" begin="0.62s" fill="freeze"/><animate attributeName="y" from="386" to="324.4" dur="0.9s" begin="0.62s" fill="freeze"/></rect>
+<text x="1000.0" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >J</text>
+<rect x="1023.7" y="254.0" width="27.3" height="132.0" rx="4" fill="#0891B2" fill-opacity="1"><animate attributeName="height" from="0" to="132.0" dur="0.9s" begin="0.68s" fill="freeze"/><animate attributeName="y" from="386" to="254.0" dur="0.9s" begin="0.68s" fill="freeze"/></rect>
+<text x="1037.3333333333335" y="246.0" font-size="12" font-weight="700" fill="#0891B2" text-anchor="middle" >478</text>
+<text x="1037.3333333333335" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >J</text>
+<rect x="1061.0" y="380.2" width="27.3" height="5.8" rx="4" fill="#7C3AED" fill-opacity="1"><animate attributeName="height" from="0" to="5.8" dur="0.9s" begin="0.74s" fill="freeze"/><animate attributeName="y" from="386" to="380.2" dur="0.9s" begin="0.74s" fill="freeze"/></rect>
+<text x="1074.6666666666667" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >A</text>
+<rect x="1098.3" y="383.0" width="27.3" height="3.0" rx="4" fill="#7C3AED" fill-opacity="0.35"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.80s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.80s" fill="freeze"/></rect>
+<text x="1112.0000000000002" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >S</text>
+<rect x="1135.7" y="383.0" width="27.3" height="3.0" rx="4" fill="#7C3AED" fill-opacity="1"><animate attributeName="height" from="0" to="3.0" dur="0.9s" begin="0.86s" fill="freeze"/><animate attributeName="y" from="386" to="383.0" dur="0.9s" begin="0.86s" fill="freeze"/></rect>
+<text x="1149.3333333333335" y="408" font-size="12" font-weight="400" fill="#475569" text-anchor="middle" >O</text>
+</svg>

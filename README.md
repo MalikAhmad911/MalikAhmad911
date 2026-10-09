@@ -61,21 +61,17 @@
 
 <br/>
 
+<!-- Refresh numbers: python scripts/activity.py -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/activity-dark.svg">
+  <img alt="GitHub activity: contributions, commits, repositories, languages and monthly contributions" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/activity-light.svg" width="100%">
+</picture>
+
+<br/><br/>
+
 <a href="https://infiniterankers.io/book-demo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/cta-dark.svg">
     <img alt="Losing leads after hours? Book a free 30-minute strategy call" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/main/assets/cta-light.svg" width="100%">
   </picture>
 </a>
-
-### Building in public
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MalikAhmad911&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=MalikAhmad911&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub streak" />
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/output/github-snake-dark.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MalikAhmad911/MalikAhmad911/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
